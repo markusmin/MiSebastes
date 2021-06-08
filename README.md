@@ -1,2 +1,2 @@
 # MiSebastes
-A repository for all code used in the design of the MiSebastes primer set.
+A repository for all code used in the design of the MiSebastes primer set and subsequent analyses.
